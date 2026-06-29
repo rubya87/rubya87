@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou a Rúbia Rodrigues
+# Olá! 👋 Eu sou a Rubya Rodrigues
 
 🎓 Estudante de Sistemas de Informação | Graduada em Recursos Humanos
 
@@ -17,7 +17,7 @@ Atualmente procuro minha primeira oportunidade de estágio em Tecnologia, onde p
 - 💼 Em transição para a área de Tecnologia.
 - 📊 Interesse em Dados & Analytics, Business Intelligence, UX/UI e Gestão de Tecnologia.
 - 💡 Gosto de resolver problemas, aprender novas ferramentas e desenvolver soluções que gerem impacto positivo.
-- 🌱 Atualmente aprofundando conhecimentos em Python, SQL, Power BI, Git e Desenvolvimento Web.
+- 🌱 Atualmente aprofundando conhecimentos em Python, SQL, Power BI, AWS, Big Data Analytics.
 
 ---
 
@@ -34,25 +34,6 @@ Atualmente procuro minha primeira oportunidade de estágio em Tecnologia, onde p
 
 ---
 
-# 📂 Projetos em Destaque
-
-## 📊 Análise de E-commerce
-
-Projeto desenvolvido utilizando Power BI para análise de indicadores, métricas e geração de insights para tomada de decisão.
-
----
-
-## 🤖 IAuxílio RS - Emergência Inteligente
-
-Aplicação desenvolvida em Python e Flask para auxiliar usuários em situações de emergência, integrando funcionalidades de cadastro, gerenciamento de informações e interface web.
-
----
-
-## 💻 Outros Projetos
-
-Ao longo da graduação venho desenvolvendo projetos acadêmicos envolvendo programação, banco de dados, análise de dados e desenvolvimento web. Este portfólio será atualizado constantemente conforme minha evolução profissional.
-
----
 
 # 🎯 Objetivo Profissional
 
@@ -68,7 +49,7 @@ www.linkedin.com/in/rubya-rodrigues-06335560
 
 📧 E-mail
 
-SEU EMAIL
+rubyarodrigues87@hotmail.com
 
 ---
 
